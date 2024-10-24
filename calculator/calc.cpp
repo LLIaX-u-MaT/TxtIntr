@@ -1,4 +1,4 @@
-#include "calс.h"
+#include "calc.h"
 
 double calc::nat_log(const vector<double>& operands)
 {

@@ -1,4 +1,4 @@
-#include "calс.h"
+#include "calc.h"
 
 using namespace std;
 
